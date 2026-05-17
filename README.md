@@ -45,7 +45,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Output Waveform:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/451a0825-6f19-467a-9d21-26bbfa780350" />
+<img width="989" height="790" alt="dc4-1" src="https://github.com/user-attachments/assets/8cb7065f-7889-4cf1-ac3e-cb9f9a5b7635" />
 
 ### FSK:
 ```
@@ -95,7 +95,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### output:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/775a937b-3378-4ca3-b4c1-89b6d9775de5" />
+<img width="1189" height="1190" alt="dc4-2" src="https://github.com/user-attachments/assets/04858421-a7f4-4d56-89ca-f5f3dfb87c55" />
 
 
 ## Result:
